@@ -3,6 +3,7 @@ import 'package:todolist/const/color.dart';
 import 'package:todolist/data/firestor.dart';
 import 'package:todolist/model/notes_model.dart';
 
+// ignore: must_be_immutable
 class Edit_Screen extends StatefulWidget {
   Note _note;
   Edit_Screen(this._note, {super.key});

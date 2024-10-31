@@ -4,6 +4,7 @@ import 'package:todolist/widgets/task_widgets.dart';
 
 import '../data/firestor.dart';
 
+// ignore: must_be_immutable
 class Stream_note extends StatelessWidget {
   bool done;
   Stream_note(this.done, {super.key});

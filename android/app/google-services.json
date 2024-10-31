@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "359445735790",
-    "project_id": "testfirebase-c43ed",
-    "storage_bucket": "testfirebase-c43ed.appspot.com"
+    "project_number": "711134830294",
+    "project_id": "todolist-238c2",
+    "storage_bucket": "todolist-238c2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:359445735790:android:a9dbe3e39b473c8259f97f",
+        "mobilesdk_app_id": "1:711134830294:android:36d671896acce04642f377",
         "android_client_info": {
-          "package_name": "com.example.firebase_test"
+          "package_name": "com.example.todolist"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC6bIH-W2eGlSX51AkJ1neOqWnS2gssTYg"
+          "current_key": "AIzaSyBMJE97RwqzL6B5brQ-OUDY-nJzNG4ccZs"
         }
       ],
       "services": {
